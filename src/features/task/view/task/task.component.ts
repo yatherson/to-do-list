@@ -5,8 +5,6 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   template: '<p>task works!</p>',
-  styles: ''
+  styles: '',
 })
-export class TaskComponent {
-
-}
+export class TaskComponent {}
